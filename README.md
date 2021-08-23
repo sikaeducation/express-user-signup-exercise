@@ -20,7 +20,7 @@ Secure the passwords by hashing them.
 
 ### Running the Server
 
-Run the server localy with `npm run dev`.
+Run the server locally with `npm run dev`.
 
 ### Inserting a User Record with Objection
 
